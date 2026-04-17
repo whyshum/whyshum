@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML,Datastructures**
 
-- 💬 Ask me about **Software Engineering**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **vyshnavimamidala1@gmail.com**
 
